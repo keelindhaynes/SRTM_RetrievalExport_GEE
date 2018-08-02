@@ -23,7 +23,7 @@ Map.addLayer(polygon);
 Export.image.toDrive({
   image: image,
   description: 'selected_name',
-  folder: 'GoogleDrive_folder_name_and_path'
+  folder: 'GoogleDrive_folder_name_and_path',
   scale: 30,
   region: polygon
 });
