@@ -1,4 +1,4 @@
-//You must create a polygon (feature) to act as a ROI. Name it 'polygon' for the export to work properly.
+//You must create a polygon (feature) to act as a ROI. Name it 'polygon' for the export and clipping to work properly.
 
 
 var polygon = /* color: #d63000 */geometry;
